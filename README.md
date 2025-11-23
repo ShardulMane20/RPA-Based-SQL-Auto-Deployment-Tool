@@ -138,9 +138,6 @@ Queries execute in separate threads to maintain UI responsiveness, with results 
 - **Routine Maintenance**: Execute maintenance scripts across database sets
 - **Data Analysis**: Compare data across development, testing, and production
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
 ### Development Setup
 
@@ -164,33 +161,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 - Complex stored procedures require careful handling
 - Requires stable network connection for database operations
 
-## 🗺️ Roadmap
-
-### Short-term (3-6 months)
-- [ ] Add MySQL and PostgreSQL support
-- [ ] Implement syntax highlighting for SQL keywords
-- [ ] Add CSV/Excel export formats
-- [ ] Query auto-completion
-- [ ] Result filtering and sorting
-
-### Medium-term (6-12 months)
-- [ ] Query plan visualization
-- [ ] Schema browser and relationship diagrams
-- [ ] Performance metrics and optimization suggestions
-- [ ] Shared query libraries
-- [ ] Team collaboration features
-
-### Long-term (1-2 years)
-- [ ] Cloud database support (Azure SQL, AWS RDS)
-- [ ] Web-based companion application
-- [ ] Natural language to SQL conversion
-- [ ] Role-based access control
-- [ ] Scheduled query execution
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👥 Authors
 
 **Team Members:**
@@ -213,7 +183,6 @@ Annasaheb Dange College of Engineering & Technology, Ashta, Sangli
 - Microsoft SQL Server team for comprehensive documentation
 - Python community for excellent libraries and support
 - Our mentors and colleagues for valuable feedback and guidance
-- Open-source projects that inspired this tool
 
 ## 📞 Support
 
