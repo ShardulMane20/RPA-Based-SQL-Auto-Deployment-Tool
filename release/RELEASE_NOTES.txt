@@ -1,0 +1,65 @@
+
+Zanvar SQL Application - Version 1.2.4
+Shardul Mane & Team
+Release Date: October 17, 2025
+
+
+WHAT'S NEW IN VERSION 1.2.4
+
+  ✓ Enhanced query execution performance
+  ✓ Improved database connection stability
+  ✓ Modern user interface updates
+  ✓ Bug fixes and optimizations
+
+INSTALLATION INSTRUCTIONS
+
+  1. Follow the installation wizard steps
+  2. Choose installation directory
+  3. Select additional shortcuts (optional)
+  4. Complete the installation
+
+SYSTEM REQUIREMENTS
+
+  • Operating System: Windows 10/11 (64-bit)
+  • RAM: Minimum 4GB
+  • Disk Space: 100MB free space
+  • Database: Microsoft SQL Server (any version)
+
+KEY FEATURES
+
+  ✓ Connect to SQL Server instances
+  ✓ Execute queries across multiple databases
+  ✓ View formatted query results
+  ✓ Export results to log files
+  ✓ Query history management
+  ✓ Modern, intuitive user interface
+
+FIRST TIME SETUP
+
+  1. Launch Zanvar SQL Application after installation
+  2. Enter your SQL Server connection details:
+     - Server name (e.g., localhost\SQLEXPRESS)
+     - Username (SQL Server authentication)
+     - Password
+  3. Click "Connect"
+  4. Select databases and start querying
+
+IMPORTANT NOTES
+
+  • Administrator privileges may be required for installation
+  • Ensure SQL Server is accessible before running the application
+  • Your connection credentials are stored locally and securely
+
+SUPPORT & CONTACT
+
+  For technical support or questions:
+  
+  Website: https://www.zanvargroup.com
+  Email: shardulmane369@gmail.com
+  
+
+
+
+Thank you for choosing Zanvar SQL Application!
+
+
